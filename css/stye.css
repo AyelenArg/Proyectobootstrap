@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Holtwood+One+SC&family=Quicksand:wght@300&family=Roboto:wght@100&family=Unna&display=swap');
+
+/* Fondos main */
+.fondo {
+    background-image: url("../img/vista-superior-deliciosa-comida-mexicana-espacio-copia_23-2148614368.jpg");
+opacity: 90%;
+background-size: cover;
+}
+
+.fondomenu{
+    background-image: url("../img/fondo2.jpg");
+opacity: 90%;
+background-size: cover;
+}
+
+.fondonuestroespacio{
+    background-image: url("../img/red-chilli-paste-on-black\ \(1\).jpg");
+    background-size:cover;
+    opacity: 90%;
+}
+
+.fondogaleria{
+    background-image: url("../img/overhead-shot-of-long-thin-ripe-red-chili-pepper-and-black-peppercorns-arranged-around-yellow-studio-wall-food-background-set-of-peppers-variety-of-spices-vegetables-and-nutrition-concept.jpg");
+background-size: cover;
+}
+
+/* Nav */
+.collapse{
+    justify-content: end;
+}
+.navbar-brand {
+    font-family: 'Holtwood One SC', serif;
+    font-size: 3rem;
+}
+
+.rounded {
+    width: 80px;
+}
+.display-3{
+    font-family:'Holtwood One SC', serif;
+}
+.display-6{
+    font-family: 'Unna', serif;
+}
+
+/* FOOTER */
+.bg-gradient p{
+    font-family: 'Holtwood One SC', serif;
+    font-size: 2rem;
+}
+.bg-gradient img{
+    width: 50px;
+    margin: 10px;
+}
+.row a i{
+    font-size: 28px;
+}
+
+.mb-3{
+    margin: 0 auto;
+}
+
+
+/* Menu */
+.col img{
+    width: 320px;
+    margin-top: 50px;
+}
+
+.col img:hover{
+    cursor: pointer;
+    transform: scale(1.5);
+    transition: 1s;
+}
+
+
+/* Nuestro espacio */
+.text-center{
+    border-radius: 15px;
+    background-color: rgba(253, 249, 249, 0.751) !important;
+margin-top: 50px;
+}
+
+.carousel-item img{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+
+.card-group{
+    border-radius: 50px;
+    margin: 35px;
+}
+.card-title{
+    font-family:'Unna', serif; 
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+   }
