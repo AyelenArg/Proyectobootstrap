@@ -21,7 +21,7 @@ background-size: cover;
 }
 
 .fondogaleria{
-    background-image: url("../img/overhead-shot-of-long-thin-ripe-red-chili-pepper-and-black-peppercorns-arranged-around-yellow-studio-wall-food-background-set-of-peppers-variety-of-spices-vegetables-and-nutrition-concept.jpg");
+    background-image: url("../img/fondojalapeño.jpg");
 background-size: cover;
 }
 
@@ -100,13 +100,13 @@ margin-top: 50px;
 /* GALERIA */
 
 .maingaleria{
-    height: 800px;
+    height: 650px;
 }
 
 .card{
     background-color: black;
     opacity: 90%;
-    margin: 7px;
+    margin-top: 30px;
     height: 240px;
     color: rgba(255, 255, 255, 0.891);
     text-align: center;
